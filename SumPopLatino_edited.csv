@@ -1,0 +1,473 @@
+Astor Pl,0.83835,3/
+Canal St,0.01863,2/
+50th St,0.08829,1/
+Bergen St,0.73953,1/
+Pennsylvania Ave,1.36566,1/
+238th St,6.19164,1/
+Cathedral Pkwy (110th St),2.28096,1/
+Kingston - Throop Aves,2.23155,1/
+65th St,3.64257,1/
+36th St,0.23895,1/
+Delancey St - Essex St,7.14339,3/
+Van Siclen Ave,3.56157,1/
+Norwood Ave,3.81834,3/
+104th-102nd Sts,5.16294,1/
+DeKalb Ave,1.72044,2/
+Beach 105th St,0.42363,1/
+Beach 90th St,1.93347,1/
+Freeman St,14.36211,1/
+Intervale Ave,6.60717,1/
+182nd-183rd Sts,14.09724,1/
+174th-175th Sts,8.40618,1/
+167th St,21.47877,3/
+Mets - Willets Point,0.02511,1/
+Junction Blvd,19.42461,2/
+Flushing - Main St,10.76976,2/
+Buhre Ave,6.70599,1/
+3rd Ave - 138th St,5.7753,3/
+Castle Hill Ave,9.38952,1/
+Brooklyn Bridge - City Hall,0.20817,2/
+Zerega Ave,5.54202,1/
+Grand Central - 42nd St,0.04941,2/
+33rd St,1.04571,1/
+96th St,2.19348,1/
+77th St,1.70505,1/
+Chauncey St,1.44909,1/
+Union St,1.52847,1/
+Elmhurst Ave,6.31557,1/
+Ralph Ave,2.24937,1/
+Pelham Pkwy,10.15254,2/
+Gun Hill Rd,6.06366,2/
+Nereid Ave (238 St),2.04768,1/
+Franklin Ave,0.69417,1/
+Simpson St,3.645,2/
+Bronx Park East,6.23457,1/
+Winthrop St,1.26522,1/
+Van Siclen Ave,2.31741,1/
+149th St - Grand Concourse,1.42074,1/
+161st St - Yankee Stadium,0.49248,2/
+Lexington Ave - 59th St,0.17658,1/
+E 149th St,5.17023,3/
+Morrison Av - Soundview,10.98846,1/
+Whitlock Ave,3.38661,1/
+St Lawrence Ave,10.96092,1/
+Woodside - 61st St,4.58379,2/
+Far Rockaway - Mott Ave,6.35202,2/
+72nd St,0.36693,1/
+96th St,1.56168,3/
+168th St,9.28422,2/
+Kingsbridge Rd,14.09724,2/
+42nd St - Bryant Pk,0.03888,3/
+Prospect Park,0.80433,1/
+55th St,0.67554,1/
+Jamaica - Van Wyck,2.95488,2/
+Kew Gardens - Union Tpke,2.87469,2/
+Sutphin Blvd - Archer Av,4.07835,2/
+Court Sq - 23rd St,0.20979,3/
+67th Ave,6.36984,1/
+Grand Ave - Newtown,6.76998,1/
+Ditmas Ave,2.43,1/
+Classon Ave,1.95048,3/
+Broadway,1.77066,1/
+Lorimer St,0.80757,3/
+Sutter Ave,2.60739,1/
+Wilson Ave,4.78872,4/
+Halsey St,4.30191,1/
+Lorimer St,1.40292,1/
+8th Ave,2.40813,4/
+36th Ave,2.65032,1/
+Broadway,4.16988,3/
+Times Sq - 42nd St,0,2/
+Grand Central - 42nd St,0.06075,1/
+Park Pl,1.06758,2/
+111th St,3.03183,1/
+W 4th St - Washington Sq (Lower),0.16848,2/
+51st St,0.12393,2/
+86th St,1.80306,1/
+233rd St,3.50082,2/
+66th St - Lincoln Ctr,2.22669,2/
+Hunts Point Ave,7.15959,2/
+Canal St,0.20736,1/
+Middletown Rd,2.89008,1/
+23rd St,0.81648,2/
+Court Sq,0.11259,2/
+59th St - Columbus Circle,0.83673,2/
+Hunters Point Ave,0.2349,1/
+23rd St,0.16929,1/
+Houston St,0.23085,1/
+104th St,2.19267,1/
+Broad Channel,0.10854,1/
+Ocean Pkwy,0.72981,1/
+Vernon Blvd - Jackson Ave,0.55242,1/
+68th St - Hunter College,0.49977,1/
+Queensboro Plz,0.17253,1/
+Rockaway Blvd,3.90663,1/
+Union Sq - 14th St,0.24462,1/
+Bedford - Nostrand Aves,2.15946,1/
+15th St - Prospect Park,1.61595,1/
+7th Ave,1.9926,3/
+Ft Hamilton Pkwy,1.48635,1/
+Church Ave,3.2562,2/
+Beverly Rd,2.29878,1/
+Church Ave,4.617,3/
+Newkirk Ave,1.89297,1/
+Parkside Ave,2.78802,1/
+Grand Army Plaza,0.91773,1/
+Atlantic Av - Barclay's Center,0.06237,2/
+Rockaway Ave,2.43729,3/
+Fulton St,0.82701,1/
+Clinton - Washington Aves,1.98207,1/
+7th Ave,0.45684,1/
+Atlantic Av - Barclay's Center,0.17415,2/
+Atlantic Av - Barclay's Center,1.13967,2/
+Borough Hall,0.23004,3/
+Aqueduct Racetrack,3.7827,1/
+Morris Park,5.12406,1/
+Pelham Pkwy,4.91913,2/
+Nostrand Ave,1.12914,3/
+Nevins St,0.1782,1/
+Eastern Pkwy - Bklyn Museum,0.46575,1/
+Beverly Rd,1.33488,1/
+Church Ave,2.04363,2/
+Newkirk Ave,1.63377,1/
+Brooklyn College - Flatbush Ave,3.52107,2/
+Sterling St,1.10646,1/
+Crown Hts - Utica Ave,2.8431,2/
+Kingston Ave,1.69371,1/
+Nassau Ave,1.72449,1/
+Greenpoint Ave,2.28582,1/
+Marcy Ave,7.88454,2/
+Hewes St,2.25261,1/
+138th St - Grand Concourse,1.39887,1/
+5th Ave - 53rd St,0.04698,1/
+Lexington Ave - 53rd St,0.99306,2/
+28th St,0.16119,1/
+Herald Sq - 34th St,0.03564,2/
+1st Ave,7.60752,1/
+Times Sq - 42nd St,0.08829,1/
+Metropolitan Ave,1.70505,3/
+Grand St,1.97559,3/
+Graham Ave,1.9035,1/
+Bedford Ave,4.52466,1/
+Montrose Ave,3.61584,1/
+Long Island City - Court Sq,0.0567,1/
+21st St,0.31347,1/
+39th Ave,0.57672,1/
+145th St,6.94575,1/
+157th St,9.86013,1/
+96th St,4.74822,2/
+103rd St,3.50487,1/
+Central Park North (110th St),2.6892,1/
+103rd St,3.73005,1/
+72nd St,1.35027,2/
+81st St,0.38313,3/
+75th Ave,1.11942,1/
+86th St,1.58436,1/
+Cathedral Pkwy (110th St),2.11815,1/
+116th St - Columbia University,1.40859,1/
+125th St,2.37897,1/
+135th St,3.46599,2/
+116th St,2.6811,1/
+Tremont Ave,12.31848,3/
+137th St - City College,9.24291,3/
+145th St,3.22785,1/
+176th St,15.02793,1/
+Burnside Ave,13.16736,3/
+170th St,18.24039,1/
+168th St,2.58228,3/
+181st St,13.43466,1/
+191st St,13.85181,1/
+175th St,14.7177,2/
+Beach 44th St,1.40859,1/
+Beach 60th St,1.40859,1/
+Beach 98th St,1.1178,1/
+Rockaway Park - Beach 116 St,0.972,2/
+Beach 36th St,1.24659,1/
+Beach 25th St,4.31244,1/
+Parsons Blvd,4.1553,3/
+169th St,4.76523,1/
+103rd St - Corona Plaza,32.0841,1/
+111th St,20.21193,1/
+63rd Dr - Rego Park,3.37122,1/
+Grant Ave,3.51702,1/
+79th St,1.22715,1/
+Atlantic Ave,1.67832,1/
+Christopher St - Sheridan Sq,0.64962,1/
+Ozone Park - Lefferts Blvd,6.69546,2/
+Times Sq - 42nd St,0,2/
+W 8th St - NY Aquarium,0.12555,1/
+28th St,0.38718,1/
+28th St,2.06388,4/
+Pelham Bay Park,4.16502,1/
+Westchester Sq - E Tremont Ave,4.21686,1/
+18th St,0.16605,1/
+Grand Central - 42nd St,1.28466,2/
+Beach 67th St,2.24775,4/
+W 4th St - Washington Sq (Upper),0.27135,2/
+85th St - Forest Pky,6.92064,1/
+Woodhaven Blvd,7.45119,1/
+111th St,5.23908,1/
+121st St,5.93244,1/
+Halsey St,8.45721,1/
+Myrtle - Wyckoff Aves,5.25933,2/
+New Lots Ave,4.30353,4/
+Van Siclen Ave,2.18052,1/
+Cleveland St,4.2849,1/
+Livonia Ave,0.42444,1/
+Junius St,1.34946,4/
+Rockaway Ave,2.80017,1/
+Canarsie - Rockaway Pkwy,2.01123,2/
+E 105th St,1.67913,1/
+Saratoga Ave,3.24324,1/
+Sutter Ave - Rutland Road,3.0213,1/
+New Lots Ave,1.22715,1/
+Broadway Junction,0.40662,4/
+Alabama Ave,1.21581,1/
+Shepherd Ave,3.85317,1/
+Crescent St,6.67197,1/
+Cypress Hills,2.8755,1/
+75th St - Eldert Ln,6.73272,1/
+69th St,4.30353,1/
+74th St - Broadway,5.55579,2/
+Woodhaven Blvd - Queens Mall,13.21191,4/
+Myrtle - Wyckoff Aves,3.42387,2/
+Seneca Ave,7.82541,1/
+DeKalb Ave,6.91254,1/
+52nd St,4.68099,1/
+46th St,3.80133,1/
+Northern Blvd,2.55555,4/
+46th St,7.99227,4/
+82nd St - Jackson Hts,15.7788,1/
+90th St - Elmhurst Av,25.53201,1/
+Howard Beach - JFK Airport,0.69093,2/
+Aqueduct - North Conduit Av,1.98936,2/
+Briarwood - Van Wyck Blvd,4.37724,4/
+Forest Hills - 71st Av,2.43648,2/
+Sutphin Blvd,3.63771,1/
+Jamaica Ctr - Parsons / Archer,4.53924,2/
+225th St,3.98034,1/
+Elder Ave,13.91904,1/
+Longwood Ave,6.48243,1/
+Astoria Blvd,4.62672,1/
+Astoria - Ditmars Blvd,6.23538,1/
+Jackson Ave,7.72659,1/
+Prospect Ave,10.87506,1/
+Cypress Ave,3.89367,1/
+174th St,10.70901,1/
+Allerton Ave,8.42643,1/
+E 143rd St - St Mary's St,3.08124,1/
+Kingsbridge Rd,15.65811,4/
+Bedford Park Blvd - Lehman College,1.74879,1/
+Harlem - 148 St,1.93185,4/
+Mt Eden Ave,12.44484,1/
+Fordham Rd,20.29536,1/
+170th St,10.7487,1/
+Bedford Park Blvd,13.45653,1/
+Marble Hill - 225th St,7.13934,1/
+231st St,15.15267,2/
+215th St,2.16432,1/
+207th St,6.19569,1/
+Inwood - 207th St,6.0021,2/
+Van Cortlandt Park - 242nd St,1.55844,4/
+West Farms Sq - E Tremont Av,18.08487,1/
+219th St,3.07314,1/
+Mosholu Pkwy,6.48324,4/
+Norwood - 205th St,12.79071,1/
+Burke Ave,6.52779,1/
+Baychester Ave,4.90212,1/
+Eastchester - Dyre Ave,5.08518,1/
+Jamaica - 179th St,4.78143,2/
+Wakefield - 241st St,2.33442,4/
+Botanic Garden,0.1134,1/
+Bushwick - Aberdeen,0.86022,1/
+Broadway Junction,0.23166,4/
+Gun Hill Rd,7.23087,2/
+E 180th St,7.23573,2/
+Dyckman St,11.05083,4/
+125th St,6.03369,1/
+Franklin Ave - Fulton St,0.76059,2/
+149th St - Grand Concourse,2.99052,1/
+3rd Ave - 149th St,15.41187,2/
+167th St,14.11992,1/
+Brook Ave,9.76374,4/
+33rd St,0.82215,4/
+40th St,4.1472,1/
+145th St,5.20911,1/
+155th St,2.31903,1/
+161st St - Yankee Stadium,13.14873,2/
+Utica Ave,2.69568,2/
+Steinway St,2.53368,4/
+Kosciuszko St,3.11283,1/
+Gates Ave,5.17347,1/
+Central Ave,4.63725,1/
+Knickerbocker Ave,7.84242,1/
+30th Ave,5.84496,1/
+Jefferson St,6.96114,4/
+Morgan Ave,2.67381,1/
+Queens Plz,0.0891,2/
+18th Ave,1.87677,1/
+77th St,2.32389,1/
+Bay Ridge Ave,5.03658,1/
+50th St,0.96066,1/
+Ft Hamilton Pkwy,2.16432,1/
+25th Ave,1.35756,1/
+Bay Pky,1.90512,2/
+20th Ave,1.08702,1/
+18th Ave,1.69371,1/
+Bay Ridge - 95th St,2.26962,1/
+86th St,2.93625,1/
+79th St,2.84796,1/
+71st St,3.17358,1/
+20th Ave,2.91438,1/
+18th Ave,4.42827,4/
+62nd St,1.22877,2/
+New Utrecht Ave,0.37098,2/
+Ave U,0.86508,1/
+Kings Hwy,1.08702,4/
+Brighton Beach,1.9845,1/
+Sheepshead Bay,1.82007,4/
+Ave U,2.28177,1/
+Kings Hwy,2.68596,2/
+Ave U,0.83916,1/
+Kings Hwy,1.92942,4/
+Neptune Ave,0.70065,4/
+Ave X,1.25469,1/
+Bay 50th St,1.68966,1/
+Gravesend - 86th St,1.88082,1/
+Ave P,1.35108,1/
+Ave N,1.33002,1/
+Bay Pky,0.15795,1/
+Ave M,1.60299,1/
+Bay Pky,2.11572,1/
+Ave I,0.31671,4/
+Ave J,1.25955,1/
+Ave H,1.08378,2/
+Neck Rd,2.41461,1/
+21st St - Queensbridge,3.03669,2/
+50th St,3.54699,4/
+7th Ave,0.17334,4/
+47th-50th Sts - Rockefeller Ctr,0.1296,2/
+57th St,0.18063,1/
+Lexington Ave - 63rd St,0.67554,2/
+Roosevelt Island - Main St,1.13724,2/
+59th St - Columbus Circle,1.60461,2/
+49th St,0.18873,4/
+57th St,1.47501,1/
+5th Ave - 59th St,0.07857,1/
+Lexington Ave - 59th St,0.50544,4/
+34th St - Penn Station,0.04941,2/
+Times Sq - 42nd St,0,2/
+Fulton St,0.03564,2/
+Chambers St,0.03402,1/
+42nd St - Port Authority Bus Term,2.39679,2/
+Myrtle-Willoughby Aves,5.48613,1/
+Flushing Ave,3.33963,1/
+23rd St,0.84483,1/
+Herald Sq - 34th St,0.06318,2/
+Hoyt - Schermerhorn Sts,0.31023,4/
+Jay St - MetroTech,0.09234,2/
+East Broadway,6.5529,1/
+Delancey St - Essex St,0.57834,4/
+Lower East Side - 2nd Ave,6.19245,1/
+Flushing Ave,5.32899,2/
+Myrtle Ave,4.56759,4/
+4th Av - 9th St,0.64152,1/
+Smith - 9th Sts,3.22137,1/
+Bergen St,2.80584,1/
+Jay St - MetroTech,0.32481,2/
+Court St,0.67554,1/
+Union Sq - 14th St,0.06885,2/
+23rd St,0.25029,1/
+Prospect Ave,2.56689,1/
+4th Av - 9th St,0.98253,1/
+3rd Ave,0.90315,1/
+Union Sq - 14th St,0.24786,2/
+Liberty Ave,1.13076,1/
+Broadway Junction,0.47547,1/
+59th St,7.76142,1/
+45th St,9.57744,1/
+36th St,3.85803,4/
+9th Ave,3.26511,1/
+53rd St,10.34046,1/
+Ft Hamilton Pkwy,4.7952,1/
+25th St,2.68596,1/
+Carroll St,2.20158,1/
+Spring St,0.23247,1/
+181st St,5.56551,4/
+190th St,1.36566,1/
+116th St,2.06307,1/
+125th St,4.03785,2/
+Prince St,0.1377,1/
+8th St - NYU,0.46494,1/
+Fulton St,0.44145,2/
+Park Pl,0.01539,1/
+Chambers St,0.34344,2/
+Hoyt St,0.20736,1/
+Borough Hall,0.10611,2/
+183rd St,11.16423,1/
+Fordham Rd,13.71654,2/
+World Trade Center,0.05832,2/
+Canal St - Holland Tunnel,0.05994,1/
+155th St,6.24348,1/
+163rd St - Amsterdam Av,10.02699,1/
+Fulton St,0.03726,2/
+Chambers St,1.95534,1/
+Canal St,0.30132,1/
+City Hall,0.08748,1/
+Canal St,0.08748,1/
+South Ferry,0.02673,2/
+Bowling Green,0.2511,2/
+Wall St,0.03726,1/
+Whitehall St,0.04536,1/
+Rector St,0.02754,1/
+Fresh Pond Rd,8.9991,1/
+Middle Village - Metropolitan Ave,4.42098,2/
+Rector St,0.55485,1/
+Cortlandt St,0.32481,1/
+Fulton St,0.09558,2/
+Broad St,0.04374,1/
+Cortlandt St,0.07938,2/
+Wall St,0.38394,1/
+Dyckman St,9.75726,1/
+Grand St,0.4941,1/
+Broadway - Lafayette St,0.18306,2/
+Bowery,0.80514,1/
+Canal St,0.02916,1/
+23rd St,2.08008,1/
+34th St - Penn Station,0.73143,2/
+Jackson Hts - Roosevelt Av,2.72808,2/
+14th St,0.26406,4/
+135th St,2.30931,1/
+14th St,0.30132,4/
+6th Ave,0.28026,4/
+8th Ave,0.53298,1/
+14th St,1.69047,2/
+Nostrand Ave,0.79299,1/
+Clark St,0.41229,1/
+Franklin Ave,0.30456,2/
+Clinton - Washington Aves,1.07163,1/
+Forest Ave,7.95501,1/
+110th St,9.33201,4/
+86th St,1.48797,4/
+York St,2.3652,1/
+High St,0.48033,1/
+Lafayette Ave,0.61155,1/
+President St,0.61965,1/
+Woodlawn,4.24035,1/
+Bleecker St,0.30213,2/
+103rd St,10.00593,1/
+Euclid Ave,6.13089,2/
+88th St,5.66109,1/
+Cortelyou Rd,2.95407,1/
+116th St,11.49552,1/
+Parkchester,16.59771,4/
+Franklin St,0.2106,1/
+80th St,4.49631,1/
+5th Ave - Bryant Pk,0.07452,4/
+Spring St,0.26487,1/
+125th St,7.07454,1/
+Coney Island - Stillwell Av,4.76361,2/
+34th St - Hudson Yards,2.10276,2/
+72nd St,3.81672,2/
+86th St,3.66039,2/
+96th St,6.29451,2/
