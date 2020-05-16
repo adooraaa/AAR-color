@@ -32,10 +32,10 @@ circle {
 
 <body>
     
-    <body style="background-color:#FAF3DD;">
+    <body style="background-color:#f4f1de;">
     
-    <h3 style="color:#ffa69e;font-size:30px;"> Demographic Populations near each NYC Subway Station </h3> 
-    <p style="color:#ffa69e;font-size:20px;">  Age            Race             Income </p> 
+    <h3 style="color:#c9c9c9;font-size:30px;"> Demographic Populations near each NYC Subway Station </h3> 
+    <p style="color:#c9c9c9;font-size:20px;">  Age            Race             Income </p> 
 
 </body>
 
@@ -67,7 +67,7 @@ var width = 900,
     maxRadius = 12;
 
 var color = d3.scale.ordinal()
-    .range(["#b8f2e6", "#aed9e0", "#5e6472"]);        
+    .range(["#e07a5f", "#81b29a", "#f2cc8f"]);        
 
 
 
@@ -397,7 +397,7 @@ var width = 900,
     maxRadius = 12;
 
 var color = d3.scale.ordinal()
-    .range(["#b8f2e6", "#aed9e0", "#5e6472"]);  
+    .range(["#e07a5f", "#81b29a", "#f2cc8f"]);  
 
 
 d3.text("https://raw.githubusercontent.com/voidofda/index/master/SumPop5less_edited.csv", function(error, text) {
@@ -577,7 +577,7 @@ var width = 900,
     maxRadius = 12;
 
 var color = d3.scale.ordinal()
-    .range(["#410b13", "#ba1f33", "#f25757"]);  
+    .range(["#e07a5f", "#81b29a", "#f2cc8f"]);  
 
 
 d3.text("https://raw.githubusercontent.com/voidofda/index/master/SumPopDisabled_edited_FIXED.csv", function(error, text) {
@@ -748,7 +748,7 @@ d3.select("input#TotalPopulation")
     .on("click", function() { d3.select("svg").remove()
 
 var color = d3.scale.ordinal()
-    .range(["#b8f2e6", "#aed9e0", "#5e6472"]);
+    .range(["#e07a5f", "#81b29a", "#f2cc8f"]);
 
 d3.text("https://raw.githubusercontent.com/voidofda/index/master/SumPopTotal_edited.csv", function(error, text) {
   if (error) throw error;
@@ -919,7 +919,7 @@ d3.select("input#AfricanAmerican")
     .on("click", function() { d3.select("svg").remove()
 
 var color = d3.scale.ordinal()
-    .range(["#b8f2e6", "#aed9e0", "#5e6472"]);
+    .range(["#e07a5f", "#81b29a", "#f2cc8f"]);
 
 d3.text("https://raw.githubusercontent.com/voidofda/index/master/SumPopBlack_edited.csv", function(error, text) {
   if (error) throw error;
@@ -1077,7 +1077,7 @@ d3.select("input#Latino")
     .on("click", function() { d3.select("svg").remove()
 
 var color = d3.scale.ordinal()
-    .range(["#b8f2e6", "#aed9e0", "#5e6472"]);
+    .range(["#e07a5f", "#81b29a", "#f2cc8f"]);
 
 d3.text("https://raw.githubusercontent.com/voidofda/index/master/SumPopLatino_edited.csv", function(error, text) {
   if (error) throw error;
@@ -1233,7 +1233,7 @@ d3.select("input#White")
 
 
         var color = d3.scale.ordinal()
-    .range(["#b8f2e6", "#aed9e0", "#5e6472"]);
+    .range(["#e07a5f", "#81b29a", "#f2cc8f"]);
 
 
 
@@ -1391,7 +1391,7 @@ d3.select("input#Other")
     .on("click", function() { d3.select("svg").remove()
 
 var color = d3.scale.ordinal()
-    .range(["#b8f2e6", "#aed9e0", "#5e6472"]);
+    .range(["#e07a5f", "#81b29a", "#f2cc8f"]);
 
 
 
@@ -1552,7 +1552,7 @@ d3.select("input#HousholdsUnder30k")
 
 
         var color = d3.scale.ordinal()
-    .range(["#b8f2e6", "#aed9e0", "#5e6472"]); 
+    .range(["#e07a5f", "#81b29a", "#f2cc8f"]); 
 
 
 
@@ -1714,7 +1714,7 @@ d3.select("input#TurnstyleUse")
 
 
         var color = d3.scale.ordinal()
-    .range(["#b8f2e6", "#aed9e0", "#5e6472"]); 
+    .range(["#e07a5f", "#81b29a", "#f2cc8f"]); 
 
 
 
